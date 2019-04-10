@@ -7,10 +7,10 @@ reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
 excerpt_separator: <!--more-->
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
+# Your site's domain goes here (eg: //mmistakes.github.io, https://mademistakes.com, etc)
+# When testing locally leave blank or use https://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: https://aronbordin.com/neo-hpstr-jekyll-theme
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -21,9 +21,9 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+    url: 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme'
   - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
+    url: 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
@@ -40,7 +40,7 @@ menu:
 # Owner/author information
 owner:
   name:           Your name
-  site:           http://aronbordin.com
+  site:           https://aronbordin.com
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
@@ -71,7 +71,7 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 locale:      en_US
 future:      true
