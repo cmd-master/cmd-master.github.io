@@ -86,7 +86,7 @@ Here is the block you might want to use:
 	/images/abstract-11.jpg
 	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+#{% include gallery images=images caption="Test images" cols=3 %}
 {% endraw %}
 {% endhighlight %}
 
@@ -103,4 +103,4 @@ It will look something like this:
 	/images/abstract-11.jpg
 	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+#{% include gallery images=images caption="Test images" cols=3 %}
