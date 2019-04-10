@@ -23,6 +23,8 @@ To modify styling and highlight colors edit `/_sass/_rouge.scss`.
 }
 {% endhighlight %}
 
+<!--more-->
+
 {% highlight html %}
 {% raw %}
 <nav class="pagination" role="navigation">

@@ -19,6 +19,8 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ### Heading 3
 
+<!--more-->
+
 #### Heading 4
 
 ##### Heading 5
@@ -36,7 +38,7 @@ Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nulla
 
 HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
 
-If you want to show just a part of your post in the come page, add the ``<!-- more -->`` tag to your post content. Everything after this tag will be hidden from the page listing page.
+If you want to show just a part of your post in the home page, add the ``<!-- more -->`` tag to your post content. Everything after this tag will be hidden from the page listing page.
 
 ### Blockquotes
 
