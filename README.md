@@ -1,11 +1,11 @@
-# [Neo-HPSTR Jekyll Theme](http://aronbordin.com/neo-hpstr-jekyll-theme)
+# [Neo-HPSTR Jekyll Theme](https://aronbordin.com/neo-hpstr-jekyll-theme)
 [![Gem Version](https://badge.fury.io/rb/neo-hpstr-jekyll-theme.svg)](https://badge.fury.io/rb/neo-hpstr-jekyll-theme)
 
 Neo-HPSTR Jekyll is a responsive and modern blog template.
 
-![Preview](http://aron-bordin.github.io/neo-hpstr-jekyll-theme/images/neo-hpstr-jekyll-theme-preview.png)
+![Preview](https://aron-bordin.github.io/neo-hpstr-jekyll-theme/images/neo-hpstr-jekyll-theme-preview.png)
 
-Demo: http://aronbordin.com/neo-hpstr-jekyll-theme
+Demo: https://aronbordin.com/neo-hpstr-jekyll-theme
 
 
 ## Contents
@@ -61,7 +61,7 @@ Using the theme will allow you to receive updates made and will be more programm
 * Responsive templates for post, page, and home `_layouts`. Looks great on mobile, tablet, and desktop devices.
 * Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
 * Sweet topbar animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
+* Optional [Disqus](https://disqus.com) comments and social sharing links.
 * [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
 * Simple [custom 404 page](x) to get you started.
 * [Syntax highlighting](x) to make your code examples look snazzy
@@ -125,7 +125,7 @@ Here are some tips on how to customize your blog theme. If you have questions, j
 
 ### Disqus Comments
 
-Create a [Disqus](http://disqus.com) account and change `disqus_shortname` in `_config.yml` to the Disqus *shortname* you just setup. By default comments appear on all post and pages if you assigned a shortname. To disable commenting on a post or page, add the following to its YAML Front Matter:
+Create a [Disqus](https://disqus.com) account and change `disqus_shortname` in `_config.yml` to the Disqus *shortname* you just setup. By default comments appear on all post and pages if you assigned a shortname. To disable commenting on a post or page, add the following to its YAML Front Matter:
 
     comments: false
 
@@ -147,7 +147,7 @@ Change your name, and avatar photo (200x200 pixels or larger), email, and social
 
 ### Google Analytics and Webmaster Tools
 
-Your Google Analytics ID goes here along with meta tags for [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownershi) site verification.
+Your Google Analytics ID goes here along with meta tags for [Google Webmaster Tools](https://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownershi) site verification.
 
 ### Top Menu - Navigation Links
 
@@ -158,7 +158,7 @@ To add additional links in the menu edit `_config.yml`. Use the following format
       - title: 'Home'
         url: '/'
       - title: 'Fork'
-        url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+        url: 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme'
       - title: 'Tags'
         url: '/tags'
       - title: 'Categories'
@@ -218,7 +218,7 @@ Jekyll 2.x added support for Sass files making it much easier to modify a theme'
 
 For example if you wanted a red background instead of white you'd change `$bodycolor: #fff;` to `$bodycolor: $cc0033;`.
 
-To modify the site's JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into `scripts.min.js`. [Install Node.js](http://nodejs.org/), then [install Grunt](http://gruntjs.com/getting-started), and then finally install the dependencies for the theme contained in `package.json`:
+To modify the site's JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into `scripts.min.js`. [Install Node.js](https://nodejs.org/), then [install Grunt](https://gruntjs.com/getting-started), and then finally install the dependencies for the theme contained in `package.json`:
 
     npm install
 
@@ -228,21 +228,21 @@ You can also use `grunt dev` in combination with `bundle exec jekyll serve` to w
 
 ## Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way?  [File a GitHub Issue](http://github.com/aron-bordin/neo-hpstr-jekyll-theme/issues/new). And if you make something cool with this theme feel free to let me know.
+Having a problem getting something to work or want to know why I setup something in a certain way?  [File a GitHub Issue](https://github.com/aron-bordin/neo-hpstr-jekyll-theme/issues/new). And if you make something cool with this theme feel free to let me know.
 
 ## Contributing
 
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/aron-bordin/neo-hpstr-jekyll-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/aron-bordin/neo-hpstr-jekyll-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://contributor-covenant.org) code of conduct.
 
 ## Development
 
 To set up your environment to develop this theme, run `bundle install`.
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `https://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
 When your theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
