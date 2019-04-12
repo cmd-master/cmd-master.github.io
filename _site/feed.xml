@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2019-04-10T09:53:40-04:00</updated>
+<updated>2019-04-12T05:23:09-04:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Angelo Candari</name>
@@ -18,7 +18,7 @@
  <link rel="alternate" type="text/html" href="http://localhost:4000/intro/sample-post/" />
   <id>http://localhost:4000/intro/sample-post</id>
   <updated>2016-12-02T00:00:00-00:00</updated>
-  <published>2016-12-02T00:00:00-05:00</published>
+  <published>2016-12-02T00:00:00-04:00</published>
   
   <author>
     <name>Angelo Candari</name>
@@ -176,7 +176,7 @@
  <link rel="alternate" type="text/html" href="http://localhost:4000/intro/code-highlighting-post/" />
   <id>http://localhost:4000/intro/code-highlighting-post</id>
   <updated>2016-12-01T00:00:00-00:00</updated>
-  <published>2016-12-01T00:00:00-05:00</published>
+  <published>2016-12-01T00:00:00-04:00</published>
   
   <author>
     <name>Angelo Candari</name>
@@ -254,8 +254,8 @@
   <title type="html"><![CDATA[Dark Post]]></title>
  <link rel="alternate" type="text/html" href="http://localhost:4000/dark-post/" />
   <id>http://localhost:4000/dark-post</id>
-  <published>2016-11-30T00:00:00-05:00</published>
-  <updated>2016-11-30T00:00:00-05:00</updated>
+  <published>2016-11-30T00:00:00-04:00</published>
+  <updated>2016-11-30T00:00:00-04:00</updated>
   <author>
     <name>Angelo Candari</name>
     <uri>http://localhost:4000</uri>
@@ -277,8 +277,8 @@
   <title type="html"><![CDATA[Post with a Background Image]]></title>
  <link rel="alternate" type="text/html" href="http://localhost:4000/image/background-image/" />
   <id>http://localhost:4000/image/background-image</id>
-  <published>2016-11-29T00:00:00-05:00</published>
-  <updated>2016-11-29T00:00:00-05:00</updated>
+  <published>2016-11-29T00:00:00-04:00</published>
+  <updated>2016-11-29T00:00:00-04:00</updated>
   <author>
     <name>Angelo Candari</name>
     <uri>http://localhost:4000</uri>
@@ -305,8 +305,8 @@
   <title type="html"><![CDATA[Sample Link Post]]></title>
  <link rel="alternate" type="text/html" href="https://aronbordin.com" />
   <id>http://localhost:4000/intro/sample-link-post</id>
-  <published>2016-11-28T00:00:00-05:00</published>
-  <updated>2016-11-28T00:00:00-05:00</updated>
+  <published>2016-11-28T00:00:00-04:00</published>
+  <updated>2016-11-28T00:00:00-04:00</updated>
   <author>
     <name>Angelo Candari</name>
     <uri>http://localhost:4000</uri>
@@ -324,8 +324,8 @@
   <title type="html"><![CDATA[A Post with a Video]]></title>
  <link rel="alternate" type="text/html" href="http://localhost:4000/intro/video-post/" />
   <id>http://localhost:4000/intro/video-post</id>
-  <published>2016-11-27T00:00:00-05:00</published>
-  <updated>2016-11-27T00:00:00-05:00</updated>
+  <published>2016-11-27T00:00:00-04:00</published>
+  <updated>2016-11-27T00:00:00-04:00</updated>
   <author>
     <name>Angelo Candari</name>
     <uri>http://localhost:4000</uri>
@@ -352,8 +352,8 @@
   <title type="html"><![CDATA[A Post with Images]]></title>
  <link rel="alternate" type="text/html" href="http://localhost:4000/sample/intro/sample-post-images/" />
   <id>http://localhost:4000/sample/intro/sample-post-images</id>
-  <published>2016-11-26T00:00:00-05:00</published>
-  <updated>2016-11-26T00:00:00-05:00</updated>
+  <published>2016-11-26T00:00:00-04:00</published>
+  <updated>2016-11-26T00:00:00-04:00</updated>
   <author>
     <name>Angelo Candari</name>
     <uri>http://localhost:4000</uri>
