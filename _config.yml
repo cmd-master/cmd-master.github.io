@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, https://mademistakes.com, etc)
 # When testing locally leave blank or use https://localhost:4000
 
-url: '#'
+url:
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -28,7 +28,7 @@ menu:
     url: '/categories'
     type: 'categories'
   - title: 'Favorites'
-    url: '#'
+    url: 
     submenu:
       - title: 'Code Highlighter'
         url: '/intro/code-highlighting-post/'
