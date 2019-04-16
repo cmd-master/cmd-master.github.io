@@ -10,7 +10,7 @@ Neo-HPSTR Jekyll is a responsive and modern blog template.
 
 # Live Demo
 
-You can see it running [here](https://blog.rhesoft.com/) and [here](https://aronbordin.com/neo-hpstr-jekyll-theme/).
+You can see it running [here](https://blog.rhesoft.com/) and [here](#).
 
 
 ## What Neo-HPSTR brings to the table:
@@ -26,7 +26,7 @@ You can see it running [here](https://blog.rhesoft.com/) and [here](https://aron
 * Author panel, with social links
 * Read more tag support(similar with Wordpress ).
 
-![Preview](https://aronbordin.com/images/neo-hpstr-jekyll-theme-preview.png)
+![Preview](#)
 
 
 ---

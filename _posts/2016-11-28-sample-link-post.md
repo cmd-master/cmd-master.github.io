@@ -4,7 +4,7 @@ title: "Sample Link Post"
 description: "Example and code for using link posts."
 tags: [sample post, link post]
 comments: true
-link: https://aronbordin.com
+link: '#'
 categories: [intro]
 ---
 

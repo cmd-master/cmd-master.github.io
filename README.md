@@ -1,11 +1,11 @@
-# [Neo-HPSTR Jekyll Theme](https://aronbordin.com/neo-hpstr-jekyll-theme)
+# [Neo-HPSTR Jekyll Theme](https://laconicdata.com)
 [![Gem Version](https://badge.fury.io/rb/neo-hpstr-jekyll-theme.svg)](https://badge.fury.io/rb/neo-hpstr-jekyll-theme)
 
 Neo-HPSTR Jekyll is a responsive and modern blog template.
 
-![Preview](https://aron-bordin.github.io/neo-hpstr-jekyll-theme/images/neo-hpstr-jekyll-theme-preview.png)
+![Preview](#)
 
-Demo: https://aronbordin.com/neo-hpstr-jekyll-theme
+Demo: https://laconicdata.com
 
 
 ## Contents
