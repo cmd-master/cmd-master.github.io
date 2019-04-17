@@ -1,4 +1,4 @@
-title:            Angelo Candari
+title:            laconicdata
 description:      Describe your website here.
 
 # put your disqus here
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, https://mademistakes.com, etc)
 # When testing locally leave blank or use https://localhost:4000
 
-url:
+url: https://localhost:4000
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -20,7 +20,7 @@ url:
 menu:
   - title: 'Home'
     url: '/'
-#  - title: 'Install'
+#  - title: 'Work'
 #    url: 'https://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
 #  - title: 'Tags'
 #    url: '/tags'
@@ -28,19 +28,19 @@ menu:
 #    url: '/categories'
 #    type: 'categories'
 #  - title: 'Favorites'
-    url:
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+#    url:
+#    submenu:
+#      - title: 'Code Highlighter'
+#        url: '/intro/code-highlighting-post/'
+#      - title: 'Sample Post'
+#        url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
   name:           Angelo Candari
-  site:           https://angelocandari.github.io
+  site:           https:/laconicdata.com
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Simple explanations to solve complex problems."
   email:          angelocandari@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   # twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
@@ -49,7 +49,7 @@ owner:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+# twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
@@ -70,7 +70,7 @@ google_verify:
 bing_verify:
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Muscat
 locale:      en_US
 future:      true
 highlighter: rouge
