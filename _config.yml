@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "laconicdata.com"
+url: ""
 baseurl: ""
 
 # Includes
@@ -78,3 +78,4 @@ excerpt_separator: <!--more-->
 sass:
   sass_dir: assets/partials
   style: compressed
+
