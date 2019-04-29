@@ -23,7 +23,7 @@
 			&:first-of-type { border-top: 1px solid $grey-color-lightest; }
 		}
 	}
-	.about-me { font-size: 16px; line-height: 26px; margin: 30px 0 0; }
+	.about-me { font-size: 16px; line-height: 26px; margin: 30px 0 0; text-align: left;}
 	.socials { @include flexbox(); @include justify-content(); margin: 25px 0 0;
 		li { margin: 5px;
 			a { @include flexbox(); @include align-items(); @include justify-content(); width: 40px; height: 40px; background: darken($grey-color-lightest, 6%); border-radius: 50%; @include transition(all .1s ease);
