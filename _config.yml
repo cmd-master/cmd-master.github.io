@@ -72,6 +72,11 @@ paginate_path: "/page:num/"
 
 # Conversion
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
 excerpt_separator: <!--more-->
 
 # Assets Settings
