@@ -3,7 +3,7 @@ name: Angelo Candari
 job_title: Data Analyst
 email: angelocandari@gmail.com
 description: Data represents reality and it is my job to make that connection so that others can make smarter decisions. I love Statistics, Python and working with people to find simple explanations to solve complex problems.
-avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
+avatar: https://www.laconicdata.com/assets/img/avatar.jpg
 favicon: /favicon.ico
 twitter_handler: your_handler
 analytics_code: UA-XXXXXXX-2
@@ -76,7 +76,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 excerpt_separator: <!--more-->
 
 # Assets Settings
