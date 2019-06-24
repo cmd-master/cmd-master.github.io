@@ -7,6 +7,7 @@ avatar: /assets/img/avatar.jpg
 favicon: /assets/img/favicon.png
 twitter_handler: your_handler
 analytics_code: UA-XXXXXXX-2
+tagmanager_code: GTM-PQJJDKS
 disqus: your_disqus_site
 
 # Social Accounts
