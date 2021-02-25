@@ -10,6 +10,7 @@ category:
 # Enron POI Detector
 ## 1. Data Exploration
 Enron was a big scandal in Wallstreet that embodied greed, pride and fraud in Corporate America. Originally an energy company in Natural Gas, it became big when it started to trade energy in the stock exchange. They used this thing called "Mark-to-Market" pitch that basically allows them to sell their stock by reporting future earnings. Imagine if someone approached you and told you to invest in their company that will make 100 million USD even if their powerplant was not yet built. Naturally, everyone bought it and their prices went up. Long story short, the businesses went bankrupt after reporting huge losses and their investors lost their money. People responsible were called into question to answer for the fraud that they have commited.
+<!--more-->
 
 ## 1.1. Objective of Analysis
 The objective of this analysis is create an algorithm that will be able to identify Person of Interests or POI by using their emails and financials.
