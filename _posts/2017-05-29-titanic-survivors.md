@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-05-29 8:14
-title:  "Titanic Survivors"
+title:  "How to Survive Titanic"
 mood: happy
 category:
 - udacity
