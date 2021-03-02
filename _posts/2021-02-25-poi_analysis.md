@@ -92,13 +92,13 @@ plotScatter(data, "After Outlier Removal")
 
 
 
-![png](output_3_0.png)
+![png](../assets/img/poi_analysis/output_3_0.png)
 
 
 
 
 
-![png](output_3_1.png)
+![png](../assets/img/poi_analysis/output_3_1.png)
 
 
 
@@ -194,7 +194,7 @@ my_dataset = addNewFeature(my_dataset, emailto_poi, "emailto_poi")
 
 
 
-![png](output_5_0.png)
+![png](../assets/img/poi_analysis/output_5_0.png)
 
 
 
