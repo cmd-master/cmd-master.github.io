@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-12-07 5:47
-title:  "Typycal Filipino Family"
+title:  "Typical Filipino Family"
 mood: happy
 category:
 - udacity
