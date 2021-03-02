@@ -14,6 +14,7 @@ their money. They would work for long hours, sometimes far from home, and
 end up spending all their money on stuff they don't need. It is common to hear
 stories of Filipinos spending a lifetime working overseas and coming back
 poorer than they were before the left.
+<!--more-->
 
 ## Objectives
 In this article, I would like to know how Filipinos spend their money in
