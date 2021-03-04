@@ -5,6 +5,7 @@ title:  "Person of Interest Enron Fraud"
 mood: happy
 category:
 - udacity
+- python
 ---
 
 # Enron POI Detector
