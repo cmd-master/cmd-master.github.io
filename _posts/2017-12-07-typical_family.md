@@ -7,8 +7,7 @@ category:
 - udacity
 - R
 ---
-
-# Typical Filipino
+![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-52-1.png)<!-- -->
 
 Filipinos are harding working people and yet they tend to be careless with
 their money. They would work for long hours, sometimes far from home, and

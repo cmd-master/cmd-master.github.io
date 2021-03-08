@@ -7,6 +7,7 @@ category:
 - udacity
 - R
 ---
+![png](https://raw.githubusercontent.com/angelocandari/dand-titanic-survivors/master/img/output_24_0.png)
 
 On 15 April 1912, Titanic, the largest ship of its time, sank after hitting an iceberg in the North Atlantic Ocean. Of the 2,224 people estimated on board, only 705 survived. Although limited, there were enough lifeboats to save 1,178 people and yet fewer made it.
 
