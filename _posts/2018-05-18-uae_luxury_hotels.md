@@ -9,12 +9,11 @@ category:
 ---
 From 1985 to 2005, hotel guests in the UAE steadily grew to 7.2 million. 40% of those had stayed in a five star hotel in the UAE. This chart aims to uncover key events that explains UAE's development as a destination for luxury hotels.
 
-<iframe src="https://angelocandari.github.io/dvi-uae-luxuryhotels/" width="768" height="800" frameBorder="0">
+<iframe src="https://angelocandari.github.io/dvi-uae-luxuryhotels/" width="100%" height="800" frameBorder="0">
 </iframe>
+<!--more-->
 ## Summary
 In 1985, hotel guests in the UAE were only 550k in total. In 2005, that number grew to 7.2 million - a 12 times increase in just 2 decades. And of that 7.2 million, 40% were guests who stayed in a Five star hotel. This chart shows the annual growth of demand of luxury hotels in the UAE for the past 20 years. It outlines key events that has influenced the incredible development in the country's hotel industry. Data is from Bayanat.ae, UAE's Open Data website,  [Hotels Guests and Nights By Class and Nationality](http://data.bayanat.ae/en_GB/dataset?q=hotels&groups=tourism&sort=score+desc%2C+metadata_modified+desc).
-
-<!--more-->
 
 ## Design
 This visualization is a line time series graph that aggregates the count of guests for each year. I was inspired by Amanda Cox's article in NYT, [The Jobless Rate for People Like You](https://archive.nytimes.com/www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html). She made this visualization to explain the different segmentation of the Unemployment Rate in the US and compare it with the average. By using the same method, users are able to compare the selected blue line to another line that is highlighted in orange when the user hovers his/her mouse over it. In addition, viewers are able to see the trend between each year by the slope of the line between each circle.

@@ -4,9 +4,6 @@ title:  "About Me"
 permalink: "/about/"
 ---
 
-<figure>
-    <img src="https://cdn.dribbble.com/users/1073937/screenshots/5036567/waterfall.png" />
-    <figcaption>Created by <a href="https://dribbble.com/HannahLizSharp" target="_blank_">Hannah Sharp</a></figcaption>
-</figure>
+I believe that data represents reality and it is my job to make that connection so that people can make smart decisions. I love statistics, python and working with people to find simple explanations to solve complex problems and to build systems to try predict what will happens next.
 
-In addition to writing posts, another thing you may want to do with your Jekyll site is create static pages. By taking advantage of the way Jekyll copies files and directories, this is easy to do. [More Information](https://jekyllrb.com/docs/pages/){:target="_blank"}
+I use my skills in Python, Pandas, Numpy and Scikit-Learn to clean and manipulate data for analysis. I utilize Machine Learning techniques to use data to train models to make predictions.  I love Math, Statistics and Probabilities that allows me to view complex problems objectively and solve them in a structured manner. I also have an uncanny ability to explain concepts simply and present insights intuitively by using data-driven visualizations such as Seaborn, D3.js, Qliksense and Google Data Studio dashboards.
