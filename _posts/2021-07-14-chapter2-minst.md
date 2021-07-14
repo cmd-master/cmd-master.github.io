@@ -7,7 +7,6 @@ category:
 - python
 - machine learning
 ---
-# Chapter 3: Classification
 Notes for *Hands on Machine Learning with Scikit by Aurelien Geron*. This is on Chapter 3: Classification, where it explains the fundamentals on how Machine Learning identify one group from the other using statistics.
 
 ![confusion_matrix](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/image1.svg)
@@ -53,18 +52,12 @@ There are 2 sets of data. *Data* contains the pixel information about the number
 print('data', df.shape) # I store the data info in df, which is short for dataframe.
 print('target', target.shape)
 ```
-
     data (70000, 784)
     target (70000,)
-
-
 
 ```python
 df.iloc[0].describe()
 ```
-
-
-
 
     count    784.000000
     mean      35.108418
