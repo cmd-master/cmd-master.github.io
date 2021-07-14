@@ -10,6 +10,10 @@ category:
 # Chapter 3: Classification
 Notes for *Hands on Machine Learning with Scikit by Aurelien Geron*. This is on Chapter 3: Classification, where it explains the fundamentals on how Machine Learning identify one group from the other using statistics.
 
+![confusion_matrix](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/image1.svg)
+
+<!--more-->
+
 # Getting Started
 The dataset used is the *MNIST*, which is a collection of handwritten numbers in the format of image pixels. The goal is to have the machine tell us what number is in each image.
 
