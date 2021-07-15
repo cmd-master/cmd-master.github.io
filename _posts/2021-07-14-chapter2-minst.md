@@ -7,9 +7,12 @@ category:
 - python
 - machine learning
 ---
-Notes for *Hands on Machine Learning with Scikit by Aurelien Geron*. This is on Chapter 3: Classification, where it explains the fundamentals on how Machine Learning identify one group from the other using statistics.
 
 ![confusion_matrix](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/image1.svg)
+
+This is on Chapter 3: Classification, where it explains the fundamentals on how Machine Learning identify one group from the other using statistics.
+
+Notes for *Hands on Machine Learning with Scikit by Aurelien Geron*. 
 
 <!--more-->
 
