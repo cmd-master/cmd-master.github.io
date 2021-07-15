@@ -8,11 +8,11 @@ category:
 - machine learning
 ---
 
-![confusion_matrix](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/image1.svg)
+![confusion_matrix](https://raw.githubusercontent.com/cmd-master/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/image1.svg)
 
 This is on Chapter 3: Classification, where it explains the fundamentals on how Machine Learning identify one group from the other using statistics.
 
-Notes for *Hands on Machine Learning with Scikit by Aurelien Geron*. 
+Notes for *Hands on Machine Learning with Scikit by Aurelien Geron*.
 
 <!--more-->
 
@@ -123,7 +123,7 @@ plt.close()
     the chosen number is: 7
 
 
-![seven](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/seven.png)
+![seven](https://raw.githubusercontent.com/cmd-master/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/seven.png)
 
 Each row contains pixel information about a number. If it reshaped into 28 by 28 pixels and plotted in a graph, the image of the number will show. We have chosen the number seven and true enough the image is a seven.
 
@@ -237,7 +237,7 @@ confusion_matrix(train_target_seven, train_pred_seven)
 
 
 
-![confusion_matrix](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/image1.svg)
+![confusion_matrix](https://raw.githubusercontent.com/cmd-master/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/image1.svg)
 
 **Precision** is the number of times the model predicted that the number was seven versus all the predictions that it thought was seven. **Recall** is the number of times the model predicted that the number was seven versus all the actual sevens that exists in the dataset.
 
@@ -449,7 +449,7 @@ plt.savefig('PrecvsReca.svg')
 plt.close()
 ```
 
-![precision_vs_recall](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/PrecvsReca.svg)
+![precision_vs_recall](https://raw.githubusercontent.com/cmd-master/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/PrecvsReca.svg)
 
 Here, we get to see precision and recall against there threshold. It is at threshold zero that we see the 2 lines intersect. This is where we will find the optimized scores for both precision and recall.
 
@@ -472,7 +472,7 @@ plt.savefig('ROC_curve.svg')
 plt.close()
 ```
 
-![roc_curve](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/ROC_curve.svg)
+![roc_curve](https://raw.githubusercontent.com/cmd-master/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/ROC_curve.svg)
 
 The ROC curve plots the False Positive Rate on the x-axis and the True Positive rate on the y-axis. The FPR is the number of times the model says the numbers are sevens but are actually were not over all the Positive predictions it made. While the TPR is just the same as Recall. The ROC only cares about the Predictions that the model make as being TRUE and gauges the effectiveness of that model as it would a binomial distribution, whereby it determines how often it will get the right answer (TPR) against how likely it is to get the wrong answer (FPR). It disregards the FALSE output or the NEGATIVE output the model.
 
@@ -496,7 +496,7 @@ plt.savefig('rocSVGvsForest.svg')
 plt.close()
 ```
 
-![roc_sgd_forest](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/rocSVGvsForest.svg)
+![roc_sgd_forest](https://raw.githubusercontent.com/cmd-master/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/rocSVGvsForest.svg)
 Here, we train a Random Forest model and place it against the SGD model in the same ROC plot. How ROC curve works is that the model should be as high up on the top left corner of the graph as possible. Comparing the 2 models, we get to see that the Random Forest Model is much better classifier than the SGD.
 
 The dashed diagonal line in the middle represents randomness. If the model gets closer to that line, it means that it is no better at classifying than a coin flip.
@@ -693,7 +693,7 @@ plt.savefig('conf_mx.svg')
 plt.close()
 ```
 
-![conf_mx](https://raw.githubusercontent.com/angelocandari/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/conf_mx.svg)
+![conf_mx](https://raw.githubusercontent.com/cmd-master/std-handsOnMachineLearning/7022e99069e03cd91ea5cd08992409b7f00cc6b4/conf_mx.svg)
 Visualizing the data into a heatmap, we get to see precision (column) and recall (rows) by each of the numbers. The diagonal represents True | True results or the True Positives, where the model predicted the correct number. Don't misinterpret the shade of the heatmap. The lighter the color does not necessarily mean that the model is more precise or more accurate. The matrix defines precision and accuracy of the model by the position of the values it predicts. The color or the scores within the matrix is just there to keep count.
 
 
