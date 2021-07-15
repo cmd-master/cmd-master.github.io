@@ -1,6 +1,6 @@
   source "https://rubygems.org"
 ruby RUBY_VERSION
-
+gem 'github-pages'
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -9,9 +9,8 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.9.0"
-gem "github-pages", "~> 208"
-gem "rouge", ">= 3.23.0"
+# gem "jekyll", "3.8.4"
+# gem "github-pages", "~> 208"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
