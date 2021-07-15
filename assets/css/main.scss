@@ -108,7 +108,10 @@
 			}
 
 			code, kbd, pre {
-				margin: 0; font-family: monospace; word-wrap: break-word; word-break: break-word; white-space: pre-wrap; color: $grey-color-output;
+				margin: 0; font-family: monospace;
+				// word-wrap: break-word; word-break: break-word;
+				// white-space: pre-wrap;
+				 color: $grey-color-output;
 			}
 
 			address, cite, var { font-style: italic; }
