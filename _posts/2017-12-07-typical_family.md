@@ -7,7 +7,7 @@ category:
 - udacity
 - R
 ---
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-52-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-52-1.png)<!-- -->
 
 Filipinos are harding working people and yet they tend to be careless with
 their money. They would work for long hours, sometimes far from home, and
@@ -124,7 +124,7 @@ Each variable is described accordingly in their labels.
 
 I have modified each one to make it easier for coding.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
 
 There are a lot of low-income and few high-income households that would make
 the graph skew to the left and stretch out to the right.
@@ -137,7 +137,7 @@ the graph skew to the left and stretch out to the right.
 
 Average income per household would be at 247,556 Php annually.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
 
 I wanted to see where this average is in our distribution. Since the
 distribution is skewed by the large disparity of income, I transform the income
@@ -148,20 +148,20 @@ Marked in red, the average income is slightly on the right from the center.
 This tells us that the average does not best describe the whole distribution.
 In other words, 247k Php annual income is really high for most Filipinos.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
 
 I took a closer look at the head_workclass or the working class for each job
 occupation and see their counts.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-7-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-7-1.png)<!-- -->
 
 I also check the ages of the heads fo the family.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
 
 In addition, I checked the number of family members in each households.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-9-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-9-1.png)<!-- -->
 
 I divide the distribution according to the working class as defined by the
 survey. I do this so that I can see the relationship of the population average
@@ -416,7 +416,7 @@ their respective working classes.
 ## #   n <int>
 ```
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-22-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-22-1.png)<!-- -->
 
 In our dataset, I generally have more workers than any of the other classes.
 Experts are the minority of the group.
@@ -470,19 +470,19 @@ specify the occupation of the head of the family.
 ## Bivariate Plots Section
 ### Income Source
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-23-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-23-1.png)<!-- -->
 
 I go back to the overall income distribution but this time using our custom
 work class. I add the average income Php239k and I see that some groups
 are below the average line and other groups are above the average line.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-24-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-24-1.png)<!-- -->
 
 If people relied from their salaries, the picture would generally look the same
 except for the office and workers, where salaries are more spread out to the
 left.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-25-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-25-1.png)<!-- -->
 
 If people relied solely on income from their business, all of them are below
 the Average line of the overall income population.
@@ -491,9 +491,9 @@ These grouped histograms shows that Filipinos who works in offices and workers
 would commonly rely mostly from their salaries but would still have income from
 private business that would support their overall income.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-26-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-26-1.png)<!-- -->
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-27-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-27-1.png)<!-- -->
 
 Both graphs shows that experts are heavily dependent on salaries. While most
 groups would treat their business as a secondary source of income, office
@@ -522,7 +522,7 @@ I would like to compare work income from business income to find out the
 relationship. I transform the data from wide format to long format so that
 I can graph the data in a frequency polygon.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-29-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-29-1.png)<!-- -->
 
 I see that farmers have both their salaries from business income at almost
 similar distribution with their salary income. Office Employees have income
@@ -555,7 +555,7 @@ Out of the total 41,544 households, 23,897 have 2 sources of income. I extract
 these observations and mold the data to enable us to see where these income are
 coming from according to our work class.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-32-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-32-1.png)<!-- -->
 
 Households who have 2 sources income would rely more on their salary than they
 would their business. This is more so for Experts, Government and Workers where
@@ -585,23 +585,23 @@ are their financial priorities and if this changes as income increase?
 
 
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-34-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-34-1.png)<!-- -->
 
 I want to relate expense with their income and if I graph the relationship,
 I see that as income increase, so does their expenses, which is obvious.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-35-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-35-1.png)<!-- -->
 
 The same graph but this time with color grouped according to our custom
 I see which work class have higher incomes. But this is not really clear
 because of overplotting.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-36-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-36-1.png)<!-- -->
 
 This graph shows as a more linear relationship between expense and income but
 the working class is still unclear.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-37-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-37-1.png)<!-- -->
 
 Splitting the graphs in a facet, it seems that all classes are resembling the
 same pattern where the more income they have the higher they would spend. This
@@ -630,7 +630,7 @@ I just realized that the *expense* is the total expense of food and not the
 total expense overall. The above graphs in this section are wrong. I correct
 this by adding all expenses under *expense_total*.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-39-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-39-1.png)<!-- -->
 
 This boxplots shows the proportion of each group expenses. It enables us to see
 what each goup are spending on and are prioritizing. I have grouped the
@@ -674,13 +674,13 @@ are 8 types of expenses. I tried chaning the income as a factor but it made my
 graph into a qualitative graph that made my x-axis lables to detailed. This
 just makes the points darker but the plot is still more or less the same.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-42-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-42-1.png)<!-- -->
 
 From the graph, it would seem Filipinos would tend to prioritize food above
 else regardless of working class. With the exception of the farmers, who would
 have farming as their major expense.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-43-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-43-1.png)<!-- -->
 
 I look at the inverse of the graph and see the data from the perspective of the
 type of expenses. It is still a little bit chaotic but there are certain
@@ -689,7 +689,7 @@ linearly correlated. As income increases, these expenses increase as well. Food
 is interesting because it also increases but only to a point. I gues no matter
 how rich you are, your taste in food does not change.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-44-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-44-1.png)<!-- -->
 
 Splitting the data in a grid, I see that housing, living and luxury have a
 clear linear relationship with income. It seems that these expenses increases
@@ -731,22 +731,22 @@ living beyond their means. It is only 0.75 % of the population.
 With the summary of savings to income ration, I see that most Filipinos would
 save half of their income.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-48-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-48-1.png)<!-- -->
 
 It is good to know that most Filipinos would save their money rather than
 spending it.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-49-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-49-1.png)<!-- -->
 
 I facet the same graph according to the working class and see a similar trend
 when graphing income.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-50-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-50-1.png)<!-- -->
 
 Savings and income in a scatterpolt allows me to see a linear trend for all
 working classes.
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-51-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-51-1.png)<!-- -->
 
 It seems that savings proportion is consistent in that as income increases, so
 does their proportion of savings.
@@ -771,7 +771,7 @@ further analysis.
 
 ### Side Business
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-52-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-52-1.png)<!-- -->
 
 Filipino households would tend to have 2 sources of income, either from their
 salaries or from their side businesses. Experts, workers and government would
@@ -784,7 +784,7 @@ side to earn more income.
 
 ### Financial Priorities
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-53-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-53-1.png)<!-- -->
 
 Filipinos would generally prioritize Food, Housing, Living and Luxry items
 over everything else. Lower income households would have Food (Green) as their
@@ -794,7 +794,7 @@ cost does not change as income increases.
 
 ### Filipino Savings
 
-![](https://raw.githubusercontent.com/angelocandari/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-54-1.png)<!-- -->
+![](https://raw.githubusercontent.com/cmd-master/eda-filipino-family/master/eda-filipino-family_files/figure-html/unnamed-chunk-54-1.png)<!-- -->
 
 Filipinos would tend to keep 56% or almost half of their income to savings. But
 savings proportions varies according to different groups of working class.

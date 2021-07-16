@@ -9,7 +9,7 @@ category:
 ---
 From 1985 to 2005, hotel guests in the UAE steadily grew to 7.2 million. 40% of those had stayed in a five star hotel in the UAE. This chart aims to uncover key events that explains UAE's development as a destination for luxury hotels.
 
-<iframe src="https://angelocandari.github.io/dvi-uae-luxuryhotels/" width="100%" height="800" frameBorder="0">
+<iframe src="https://cmd-master.github.io/dvi-uae-luxuryhotels/" width="100%" height="800" frameBorder="0">
 </iframe>
 <!--more-->
 ## Summary

@@ -7,7 +7,7 @@ category:
 - udacity
 - R
 ---
-![png](https://raw.githubusercontent.com/angelocandari/dand-titanic-survivors/master/img/output_24_0.png)
+![png](https://raw.githubusercontent.com/cmd-master/dand-titanic-survivors/master/img/output_24_0.png)
 
 On 15 April 1912, Titanic, the largest ship of its time, sank after hitting an iceberg in the North Atlantic Ocean. Of the 2,224 people estimated on board, only 705 survived. Although limited, there were enough lifeboats to save 1,178 people and yet fewer made it.
 
@@ -898,7 +898,7 @@ print "Men only had a {0:.2f}% chances of surviving the tragedy".format(survive_
 ```
 
 
-![png](https://raw.githubusercontent.com/angelocandari/dand-titanic-survivors/master/img/output_16_0.png)
+![png](https://raw.githubusercontent.com/cmd-master/dand-titanic-survivors/master/img/output_16_0.png)
 
 
     Women and Children had a 66.58% chance of surviving the tragedy
@@ -1514,7 +1514,7 @@ print "than if you were in 3rd Class, who only had a {0:.2f}% chance of survivin
 ```
 
 
-![png](https://github.com/angelocandari/dand-titanic-survivors/blob/master/img/output_22_0.png)
+![png](https://github.com/cmd-master/dand-titanic-survivors/blob/master/img/output_22_0.png)
 
 
     You have a 62.96% chance of surviving the tragedy if you were a First Class Passenger,
@@ -1531,7 +1531,7 @@ than if you were in the lower class."
 ```
 
 
-![png](https://raw.githubusercontent.com/angelocandari/dand-titanic-survivors/master/img/output_23_0.png)
+![png](https://raw.githubusercontent.com/cmd-master/dand-titanic-survivors/master/img/output_23_0.png)
 
 
     If we look at the average count of women and children survivors for each class, it seems that, in passenger class, women and children had a higher chances of survival if you were in the upper class than if you were in the lower class.
@@ -1550,7 +1550,7 @@ class and more older passengers belonged on the upper class."
 ```
 
 
-![png](https://raw.githubusercontent.com/angelocandari/dand-titanic-survivors/master/img/output_24_0.png)
+![png](https://raw.githubusercontent.com/cmd-master/dand-titanic-survivors/master/img/output_24_0.png)
 
 
     The Box Plot shows that people on First Class are generally much older than the lower class. Though it goes to show that much younger passengers survived the tragedy, the variability amongst the classes are greated the higher the class. On average the Younger Survivors belonged on the lower class and more older passengers belonged on the upper class.
