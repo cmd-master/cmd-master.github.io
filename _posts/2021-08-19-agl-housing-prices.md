@@ -10,7 +10,7 @@ category:
 
 ![](https://raw.githubusercontent.com/cmd-master/agl-housing-prices/885ff17fb15a7b12289f9ab98f44821a8a0a698b/hopr-matrix-annot.svg)
 
-Finding a House is never easy. This analysis is about predicting the price of a House in California using Machine Learning.
+Finding a House is never easy. This analysis is about predicting the price of a House using Machine Learning.
 
 <!--more-->
 
