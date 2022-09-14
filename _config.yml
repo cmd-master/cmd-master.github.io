@@ -1,6 +1,6 @@
 # General Settings
 name: Angelo Candari
-job_title: Data Analyst Consultant | GA4 Expert | BigQuery SQL Developer
+job_title: Data Analyst | GA4 Expert | BigQuery SQL Developer
 email: angelocandari@gmail.com
 description: Data represents reality and it is my job to make that connection so that others can make smarter decisions. I love Statistics, Python and working with people to find simple explanations to solve complex problems.
 avatar: /assets/img/avatar.jpg
@@ -45,7 +45,7 @@ show_email: 1
 show_rss: 0
 show_comments: 1
 show_menu: 1
-fixed_sidebar: 1
+fixed_sidebar: 0
 
 # Defaults
 defaults:
