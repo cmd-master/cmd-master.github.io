@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-08-19 4:42
-title:  "Califronia Housing Prices"
+title:  "California Housing Prices"
 mood: happy
 category:
 - python
